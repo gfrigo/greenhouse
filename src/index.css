@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+@import "tailwindcss";
+@plugin 'phosphor-icons-tailwindcss';
+
+@theme {
+  --color-greenhouse-green-100 : #C9FAA6;
+  --color-greenhouse-green-200 : #71D42A;
+  --color-greenhouse-green-300 : #376218;
+  --color-greenhouse-green-400 : #2D4D17;
+  --color-greenhouse-green-500 : #17260B;
+
+  --color-greenhouse-yellow-100 : #FAF0A6;
+  --color-greenhouse-yellow-200 : #DFC91F;
+  --color-greenhouse-yellow-300 : #625918;
+  --color-greenhouse-yellow-400 : #26230B;
+
+  --color-greenhouse-orange-100 : #FAC9A6;
+  --color-greenhouse-orange-200 : #D4712A;
+  --color-greenhouse-orange-300 : #623718;
+  --color-greenhouse-orange-400 : #26170B;
+
+  --color-greenhouse-white : #F5F5F5;
+
+  --color-greenhouse-gray-100 : #D4DBE1;
+  --color-greenhouse-gray-200 : #B6C1C8;
+  --color-greenhouse-gray-300 : #7F8F8F;
+  --color-greenhouse-gray-400 : #586064;
+  --color-greenhouse-gray-500 : #2E3437;
+  --color-greenhouse-gray-600 : #15191B;
+
+  --radius-greenhouse-sm: 14px; 
+  --radius-greenhouse-md: 20px; 
+  --radius-greenhouse-lg: 30px; 
+
+  --font-inter: "Inter", sans-serif; 
+}
