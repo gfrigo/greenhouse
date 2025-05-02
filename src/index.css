@@ -3,6 +3,7 @@
 @plugin 'phosphor-icons-tailwindcss';
 
 @theme {
+  --color-greenhouse-green-50: #F4F8F1;
   --color-greenhouse-green-100 : #C9FAA6;
   --color-greenhouse-green-200 : #71D42A;
   --color-greenhouse-green-300 : #376218;
@@ -19,10 +20,14 @@
   --color-greenhouse-orange-300 : #623718;
   --color-greenhouse-orange-400 : #26170B;
 
-  --color-greenhouse-white : #F5F5F5;
+  --color-greenhouse-blue-100: #A6DAFA;
+  --color-greenhouse-blue-400: #184662;
+
+  --color-greenhouse-white: #FFFFFF;
+  --color-greenhouse-white-100: #F9F9F9;
 
   --color-greenhouse-gray-100 : #D4DBE1;
-  --color-greenhouse-gray-200 : #B6C1C8;
+  --color-greenhouse-gray-200 : #C2C2C2;
   --color-greenhouse-gray-300 : #7F8F8F;
   --color-greenhouse-gray-400 : #586064;
   --color-greenhouse-gray-500 : #2E3437;
